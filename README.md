@@ -1,4 +1,4 @@
-![photo](\Desktop\photo.jpg)
+![photo](C:\Users\user\Desktop\repository about me\photo.jpg)
 # Артем Сарки
 - Возраст: 24 года 
 - Город: Будва
